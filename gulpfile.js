@@ -1,4 +1,4 @@
-'use strict';
+﻿'use strict';
 
 var gulp = require('gulp');
 var clean = require('gulp-clean');
@@ -13,7 +13,7 @@ var uglify = require('gulp-uglify');
 var shell = require('gulp-shell')
 var fs = require('fs');
 var distDir = "./dist";
-
+222222
 
 var dependencies = require('./package.json').spm.dependencies;
 
